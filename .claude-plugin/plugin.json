@@ -2,7 +2,7 @@
   "name": "plain-english-editor",
   "displayName": "Plain English Editor",
   "description": "Rewrite or review content in concise, plain English, including automation and process explanations.",
-  "version": "0.3.0",
+  "version": "3.0.0",
   "author": { "name": "Rachael Quisel" },
   "license": "MIT",
   "keywords": ["writing", "plain-english", "editing"]
