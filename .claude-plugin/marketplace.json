@@ -1,0 +1,16 @@
+{
+  "name": "plain-english-editor",
+  "description": "Rewrite or review content in concise, plain English, including automation and process explanations.",
+  "owner": {
+    "name": "Rachael Quisel"
+  },
+  "plugins": [
+    {
+      "name": "plain-english-editor",
+      "source": "./",
+      "description": "Rewrite or review content in concise, plain English, including automation and process explanations.",
+      "displayName": "Plain English Editor",
+      "category": "Productivity"
+    }
+  ]
+}
