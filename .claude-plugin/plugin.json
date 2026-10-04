@@ -12,5 +12,9 @@
     "plain-english",
     "editing"
   ],
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "homepage": "https://github.com/RachaelQuisel/plain-english-editor",
+  "repository": "https://github.com/RachaelQuisel/plain-english-editor",
+  "documentationUrl": "https://github.com/RachaelQuisel/plain-english-editor#readme",
+  "supportUrl": "https://github.com/RachaelQuisel/plain-english-editor/issues"
 }
