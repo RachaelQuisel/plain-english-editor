@@ -2,6 +2,8 @@
 
 The user asked: "Tell me what is useful or unnecessary in this project update."
 
+The user confirmed that Tuesday means September 29 and Monday means October 5. Do not invent exact dates when this context is missing.
+
 ## Source
 
 > Project update: We are making great progress. The data import finished on Tuesday. We

@@ -1,5 +1,7 @@
 # Example: email
 
+The source and names below are fictional. The user confirmed that the expected date is Friday, October 9. Preserve that supplied date when rewriting.
+
 ## Before
 
 > Hi Dana,

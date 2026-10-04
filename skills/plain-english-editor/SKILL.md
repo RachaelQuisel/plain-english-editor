@@ -5,6 +5,19 @@ description: Rewrite or review content for clarity, concision, and plain English
 
 # Plain English Editor
 
+Read [the conversation and writing rules](references/conversation-and-writing.md) before responding. Apply them to all user-facing text.
+
+## Start the conversation
+
+If the request has no details, ask:
+
+1. "What text should I rewrite or review?"
+2. "Who will read it?"
+3. "Where will it appear, and do you want revised text or feedback?"
+
+Accept pasted text, a supplied file, or a description. Ask for an exact meaning when a status or material fact is unclear. Wait before rewriting the affected passage. If the text, reader, and requested format are clear, start the work.
+
+
 Make the content easy to understand on the first read. Preserve its meaning. Match the requested format.
 
 ## Scope
