@@ -10,7 +10,8 @@
       "source": "./",
       "description": "Rewrite or review content in concise, plain English, including automation and process explanations.",
       "displayName": "Plain English Editor",
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "4.1.3"
     }
   ]
 }

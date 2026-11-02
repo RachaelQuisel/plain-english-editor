@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "description": "Rewrite or review content in concise, plain English, including automation and process explanations.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Productivity",
+        "composerIcon": "./icon.png",
+        "developerName": "Rachael Quisel",
+        "displayName": "Plain English Editor",
+        "logo": "./icon.png",
+        "longDescription": "Rewrite or review content in concise, plain English, including automation and process explanations.",
+        "shortDescription": "Make writing clear and concise"
+      }
+    }
+  },
+  "homepage": "https://github.com/RachaelQuisel/plain-english-editor",
+  "keywords": [
+    "writing",
+    "plain-english",
+    "editing"
+  ],
+  "license": "MIT",
+  "name": "plain-english-editor",
+  "repository": "https://github.com/RachaelQuisel/plain-english-editor",
+  "version": "4.1.3"
+}

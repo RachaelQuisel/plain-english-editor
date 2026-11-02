@@ -1,9 +1,23 @@
 ---
 name: plain-english-editor
+version: 4.1.3
 description: Rewrite or review content for clarity, concision, and plain English. Use when the user invokes /plain-english-editor or says "make this make sense," "make this more concise," "use normal plain English," "write this for my team," or "tell me what is useful or unnecessary." Also use for automation and process explanations that need triggers, inputs, complete steps, and outputs. Do not use this skill by itself to imitate a specific person's voice.
 ---
 
 # Plain English Editor
+
+## Purpose in plain English
+
+This skill helps you rewrite or review a draft so its reader can understand it easily.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Read [the conversation and writing rules](references/conversation-and-writing.md) before responding. Apply them to all user-facing text.
 
