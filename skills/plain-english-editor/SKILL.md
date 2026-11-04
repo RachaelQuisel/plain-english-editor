@@ -1,6 +1,6 @@
 ---
 name: plain-english-editor
-version: 4.1.3
+version: 4.1.4
 description: Rewrite or review content for clarity, concision, and plain English. Use when the user invokes /plain-english-editor or says "make this make sense," "make this more concise," "use normal plain English," "write this for my team," or "tell me what is useful or unnecessary." Also use for automation and process explanations that need triggers, inputs, complete steps, and outputs. Do not use this skill by itself to imitate a specific person's voice.
 ---
 

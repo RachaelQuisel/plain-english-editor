@@ -5,7 +5,7 @@
     {
       "name": "plain-english-editor",
       "root": ".",
-      "version": "4.1.3",
+      "version": "4.1.4",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/plain-english-editor/SKILL.md",
-      "version": "4.1.3",
-      "sha256": "35293d07f31b77ed1ffd5a223d9996eaf308042ef1bc06796976c44bcd2785c2",
+      "version": "4.1.4",
+      "sha256": "11f7e993acaf404103acab5b1981c75b2e70f2524b726191b036e41711485f97",
       "source": "skills/plain-english-editor/SKILL.md",
       "guide": "skills/plain-english-editor/README.md"
     }
